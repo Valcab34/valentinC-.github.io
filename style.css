@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:ital,wght@1,200;1,400;1,800&display=swap');
+
+body {
+    background: #F7F9FC;
+    color: #575F7D;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: lighter;
+    display: block;
+    margin: 8px;
+}
+
+
+
+h1 {
+	font font-family: 'Sofia Sans Extra Condensed', sans-serif;
+	color: skyblue;
+	font-size: 32px;
+}
+
+h2 {
+
+    color: skyblue;
+    font-size: 27px;
+    font-weight: lighter;
+    font-weight: 500;
+
+}
+
+h3 {
+
+    color: skyblue;
+    font-size: 23px;
+    font-weight: lighter;
+    font-weight: 500;
+
+}
+
+
+img {
+
+    width: 100px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #6B72E1;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.container {
+    width: 60%;
+    margin: 40px auto;
+    text-align: center;
+
+
+}
+
+.card-white {
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.img-circle {
+
+	border-radius: 50%;
+	width: 110px;
+
+}
+
+
+.btn-blue {
+    background-color: #6B72E1;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
+.bandeau {
+    width: 60%;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+    display: block;
+
+}
+
+
+
+.banner {
+
+width: 60%;
+min-width: 30%;
+height: 300px;
+text-align: center;
+display: block;
+align-items: baseline 
+    
+}
+
+
+.left_banner {
+
+    width: 40%;
+    height: 70%;
+    float: left;
+   background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px;
+    display: block;
+
+}
+
+.right_banner {
+
+    width: 40%;
+    height: 70%;
+    float: right;
+     background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px;
+    display: block;
+
+}
+
+
+
+
+.intro {
+
+width: 325px;
+height: 120px;
+border: 2px solid darkblue;
+background-color: lightgrey;
+
+}
+
+.photo {
+
+width: 500px;
+height: 1000px;
+border: 5px solid darkblue;
+background-color: lightgrey;
+
+}
+
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #6B72E1;
+}
+
+.footer a {
+    font-size: 30px;
+    color: skyblue;
+}
+
+
+
+
+
+
